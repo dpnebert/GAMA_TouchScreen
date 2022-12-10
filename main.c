@@ -7,9 +7,10 @@
 #include "esp_log.h"
 #include "bsp/esp-box.h"
 #include "lvgl.h"
+
+#include "ui/ledc.cpp"
 #include "ui/ui.h"
 #include "ui/ui_events.cpp"
-#include "ui/ledc.cpp"
 #include "ui/ui_img_222593973.c"
 
 
